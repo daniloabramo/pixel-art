@@ -2,7 +2,7 @@
 
 Projeto simples realizado com base na [postagem](https://www.tabnews.com.br/LuC45m4Th3u5/criando-pixel-art-com-html-css-e-js-parte-1) do [samsepiol1](https://github.com/samsepiol1/Pixel-Art) no Tab News. 
 
-[Imagem](https://br.pinterest.com/pin/665477282466477792/) de referência para a pixel art retirada do pinterest.
+[Imagem](https://br.pinterest.com/pin/665477282466477792/) de referência para a pixel art retirada do Pinterest.
 
 Print do resultado final: 
 
